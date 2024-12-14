@@ -1,4 +1,4 @@
-# Networking - Part A
+# TIC-TAC-TOE
 
 Assumptions:
 - Assuming the user doesnt enter characters when he is supposed to enter numbers (ints). 
